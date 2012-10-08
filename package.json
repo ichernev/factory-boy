@@ -1,0 +1,23 @@
+{
+  "author": "Iskren Chernev <iskren.chernev@gmail.com>",
+  "name": "factory-boy",
+  "description": "Helps with the creation and (sql) persistence of objects for tests",
+  "version": "0.1.0",
+  "main": "index",
+  "homepage": "https://github.com/ichernev/factory-boy",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ichernev/factory-boy"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "*"
+  , "should": "*"
+  , "coffee-script": "1.3.3"
+  }
+}
+
